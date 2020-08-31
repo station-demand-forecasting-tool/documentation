@@ -1,2 +1,2 @@
-# Docker Deployment Basics 
+# Docker Deploy Basics 
 <!-- position: 1 -->

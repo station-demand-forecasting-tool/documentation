@@ -1,2 +1,2 @@
-# Manual Deployment Basics
+# Manual Deploy Basics
 <!-- position: 1 -->
