@@ -1,2 +1,2 @@
-# Model Inputs
+# Model Input
 <!-- position: 4 -->
