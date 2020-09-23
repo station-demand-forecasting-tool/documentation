@@ -5,7 +5,7 @@
 
 This site contains information about the open source Station Demand Forecasting Tool (SDFT) and how to install and use it. The SDFT is released under the [Affero GPL](https://www.gnu.org/licenses/agpl-3.0.txt). This licence allows you to use, copy and change the code of the software, but requires you to release your changes under the same terms and conditions if you distribute the software or you run a modified copy on a web server on the Internet. 
 
-<h2 id="aims-scope">Aims and Scope</h2>
+<h2 id="purpose">Purpose and Scope</h2>
 
 The SDFT generates a demand forecast (predicted trips per year) for one or more proposed local railway stations (a local railway station is considerd to be a Network Rail category E or F station). If required, the tool can also produce an analysis of potential abstraction of journeys from existing stations, enabling the net impact of a new station on rail use to be estimated. Forecasts for multiple stations can be accommodated as part of the same job. These can be treated independently (alternative station locations are to be assessed) or concurrently (the proposed stations will coexist).
 
@@ -35,7 +35,7 @@ The video below gives a good overview of how the tool works. However, the web in
 
 The development of the underlying models formed part of a [PhD research project](https://eprints.soton.ac.uk/430041/) funded by the EPSRC. Development of the automated tool was supported through the University of Southampton’s Impact Acceleration Account (also funded by the EPSRC). The station choice model was calibrated using passenger survey data kindly provided by the Welsh Government and Transport Scotland.
 
-<h2 id="limitations">Limitations and Liability</h2>
+<h2 id="limitations">Limitations</h2>
 
 Users should be aware of the following potential limitations of the underlying trip end model:
 
@@ -44,6 +44,8 @@ Users should be aware of the following potential limitations of the underlying t
 * If a proposed station is primarily a *destination* station, then the tool is unlikely to be appropriate. This will include, for example, stations that specifically serve a sports arena, concert venue or retail park.
 * The model may under-estimate demand when an unusually high proportion of passengers access the station by bus, for example if the station is part of a transport interchange hub where bus services converge from a large surrounding area. 
 * The model may over-estimate demand when there is strong competition from an alternative transit mode, in particular when a frequent, reliable and lower-priced bus service is available to the primary destination. 
+
+<h2 id="liability">Liability</h2>
 
 The SDFT is designed to support the decision-making process and it is assumed that users will have sufficient local knowledge to recognise situations, like those listed above, where it may not be appropriate or where adjustments to the forecasts may be required to take account of local factors. We cannot accept liability for any loss or damage caused by the use of the tool.
 
