@@ -17,7 +17,7 @@ The SDFT also has the potential to democratise the planning process by opening u
 
 Generating a demand forecast using the SDFT involves a series of data processing and spatial analysis steps with a high computational requirement. As the model has been coded to take advantage of parallelisation, the length of a model run will depend on the number of available processor cores.
 
-An article about the tool, setting it in context, appeared in the [October 2020 edition](https://www.railwatch.org.uk/backtrack.php?mag=rwm&issue=165) of Railwatch (the quarterly magazine published by Railfuture).
+An article about the tool, setting it in context, appeared in [Issue 165](https://www.railwatch.org.uk/backtrack.php?mag=rwm&issue=165) (October 2020) of Railwatch (the quarterly magazine published by Railfuture).
 
 The video below gives a good overview of how the tool works. However, the web interface shown in the video is not part of the open source project. Currently, [model inputs](https://www.stationdemand.org.uk/input/) are instead provided via CSV files, and [model outputs](https://www.stationdemand.org.uk/output/) are generated as CSV and GeoJSON files.
 
