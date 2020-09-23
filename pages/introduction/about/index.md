@@ -21,7 +21,7 @@ An article about the tool, setting it in context, appeared in [Issue 165 (Octobe
 
 The video below gives a good overview of how the tool works. However, the web interface shown in the video is not part of the open source project. Currently, [model inputs](https://www.stationdemand.org.uk/input/) are instead provided via CSV files, and [model outputs](https://www.stationdemand.org.uk/output/) are generated as CSV and GeoJSON files.
 
-[![Video of The Station Demand Forecasting Tool](http://img.youtube.com/vi/q0CmY5lilWg/0.jpg)](http://www.youtube.com/watch?v=q0CmY5lilWg "The Station Demand Forecasting Tool")
+[![Video of The Station Demand Forecasting Tool](https://img.youtube.com/vi/q0CmY5lilWg/0.jpg)](http://www.youtube.com/watch?v=q0CmY5lilWg "The Station Demand Forecasting Tool")
 
 <h2 id="team">The Team</h2>
 
