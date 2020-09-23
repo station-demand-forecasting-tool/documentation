@@ -28,7 +28,7 @@ The video below gives a good overview of how the tool works. However, the web in
 
 | [Simon Blainey](https://www.southampton.ac.uk/engineering/about/staff/spb1g09.page) (Principal Investigator) | [Marcus Young](https://www.southampton.ac.uk/engineering/about/staff/may1y17.page) (Researcher & Lead Developer) |
 |:----------:|:----------:|
-| ![](https://stationdemand.blob.core.windows.net/images/2020/09/23/simon-small.png) | ![](https://stationdemand.blob.core.windows.net/images/2020/09/23/marcus_small.png) |
+| ![Simon Blainey](https://stationdemand.blob.core.windows.net/images/2020/09/23/simon-small.png) | ![Marcus Young](https://stationdemand.blob.core.windows.net/images/2020/09/23/marcus_small.png) |
 
 
 <h2 id="funding">Funding and Acknowledgements</h2>

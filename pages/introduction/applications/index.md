@@ -1,2 +1,0 @@
-# Applications
-<!-- position: 2 --> 
