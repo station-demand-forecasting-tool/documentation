@@ -1,4 +1,4 @@
- # About
+# About
 <!-- position: 1 -->
 
 *This documentation is a work in progress and not all sections currently have content*.
