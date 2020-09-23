@@ -25,6 +25,12 @@ The video below gives a good overview of how the tool works. However, the web in
 
 <h2 id="team">The Team</h2>
 
+
+| [Simon Blainey](https://www.southampton.ac.uk/engineering/about/staff/spb1g09.page) (Principal Investigator) | [Marcus Young](https://www.southampton.ac.uk/engineering/about/staff/may1y17.page) (Researcher & Lead Developer) |
+|:----------:|:----------:|
+| ![](https://stationdemand.blob.core.windows.net/images/2020/09/23/simon-small.png) | ![](https://stationdemand.blob.core.windows.net/images/2020/09/23/marcus_small.png) |
+
+
 <h2 id="funding">Funding and Acknowledgements</h2>
 
 The development of the underlying models formed part of a [PhD research project](https://eprints.soton.ac.uk/430041/) funded by the EPSRC. Development of the automated tool was supported through the University of Southampton’s Impact Acceleration Account (also funded by the EPSRC). The station choice model was calibrated using passenger survey data kindly provided by the Welsh Government and Transport Scotland.
