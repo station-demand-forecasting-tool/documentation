@@ -1,7 +1,9 @@
 # About
 <!-- position: 1 -->
 
-This web site contains information about the Station Demand Forecasting Tool and how to install and use it. *This documentation is a work in progress and not all sections currently have content*.
+*This documentation is a work in progress and not all sections currently have content*.
+
+This site contains information about the Station Demand Forecasting Tool and how to install and use it. 
 
 The Station Demand Forecasting Tool generates a demand forecast (predicted trips per year) for one or more proposed local railway stations (a local railway station is a Network Rail category E or F station). If required, the tool can also produce an analysis of potential abstraction of journeys from existing stations, enabling the net impact of a new station on rail use to be estimated. Forecasts for multiple stations can be accommodated as part of the same job. These can be treated independently (alternative station locations are to be assessed) or concurrently (the proposed stations will coexist).
 
