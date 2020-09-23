@@ -5,7 +5,7 @@
 
 This site contains information about the open source Station Demand Forecasting Tool (SDFT) and how to install and use it. The SDFT is released under the [Affero GPL](https://www.gnu.org/licenses/agpl-3.0.txt). This licence allows you to use, copy and change the code of the software, but requires you to release your changes under the same terms and conditions if you distribute the software or you run a modified copy on a web server on the Internet. 
 
-## Aims and Scope
+<h2 id="aims-scope">Aims and Scope</h2>
 
 The SDFT generates a demand forecast (predicted trips per year) for one or more proposed local railway stations (a local railway station is considerd to be a Network Rail category E or F station). If required, the tool can also produce an analysis of potential abstraction of journeys from existing stations, enabling the net impact of a new station on rail use to be estimated. Forecasts for multiple stations can be accommodated as part of the same job. These can be treated independently (alternative station locations are to be assessed) or concurrently (the proposed stations will coexist).
 
@@ -23,13 +23,13 @@ The video below gives a good overview of how the tool works. However, the web in
 
 [![Video of The Station Demand Forecasting Tool](http://img.youtube.com/vi/q0CmY5lilWg/0.jpg)](http://www.youtube.com/watch?v=q0CmY5lilWg "The Station Demand Forecasting Tool")
 
-## The Team
+<h2 id="team">The Team</h2>
 
-## Funding and Acknowledgements
+<h2 id="funding">Funding and Acknowledgements</h2>
 
 The development of the underlying models formed part of a [PhD research project](https://eprints.soton.ac.uk/430041/) funded by the EPSRC. Development of the automated tool was supported through the University of Southampton’s Impact Acceleration Account (also funded by the EPSRC). The station choice model was calibrated using passenger survey data kindly provided by the Welsh Government and Transport Scotland.
 
-## Limitations and Liability
+<h2 id="limitations">Limitations and Liability</h2>
 
 Users should be aware of the following potential limitations of the underlying trip end model:
 
