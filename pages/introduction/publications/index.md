@@ -1,7 +1,7 @@
 # Publications
 <!-- position: 3 -->
 
-It is recommended that the following academic publications are consulted prior to using the model:
+It is recommended that the following academic publications are consulted prior to using the Station Demand Forecasting Tool:
 
 
 Young, M., Blainey, S., Gowland, T., & Nagella, S. (2019). *An automated online tool to forecast demand for new railway stations and analyse potential abstraction effects*. Paper presented at The 17th Annual Transport Practitioners' Meeting, Oxford, United Kingdom.  
