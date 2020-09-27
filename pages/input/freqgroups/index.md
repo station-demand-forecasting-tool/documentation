@@ -16,6 +16,7 @@ Here is an example file:
 group_id;group_crs
 grp1;CBN:50,HYL:40
 grp2;CBN:60,HYL:50
+
 ```
 
 In this example, frequency group 'grp1' would adjust the existing service frequency of Camborne station to 50, and Hayle station to 40; and 'grp2' would adjust the existing service frequency of Camborne station to 60, and Hayle station to 50.

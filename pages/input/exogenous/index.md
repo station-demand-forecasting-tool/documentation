@@ -11,6 +11,7 @@ type;number;centroid
 population;1000;TR138JX
 houses;150;TR13AS
 jobs;400;E33048534
+
 ```
 
 * `type` - the type of exogenous data; can be either 'population', 'houses' or 'jobs'.
