@@ -3,7 +3,7 @@
 
 Example of the `stations.csv` file with a single entry:
 
-```
+```txt
 id;name;region;stn_east;stn_north;acc_east;acc_north;freq;freqgrp;carsp;ticketm;busint;cctv;terminal;electric;tcbound;category;abstract
 HELST1;HELSTON;South West;166257;028051;166257;028051;20;;25;true;false;true;true;false;false;E;PNZ,SER
 ```
@@ -29,7 +29,7 @@ HELST1;HELSTON;South West;166257;028051;166257;028051;20;;25;true;false;true;tru
 * `carsp` - the number of car parking spaces provided at the station.
 * `ticketm` - whether or not a ticket machine will be provided at the station (must be 'true' or 'false').
 * `busint` - whether nor not a bus interchange will be available at the station (must be 'true' or 'false').
-* `cctv` - whether or not CCTV will be installed at the station (must be 'true' or 'fasle').
+* `cctv` - whether or not CCTV will be installed at the station (must be 'true' or 'false').
 * `terminal` - whether the station is a terminal station on the line (must be 'true' or 'false').
 * `electric` - whether or not the station will be served by electric services via overhead lines or a third rail (must be 'true' or 'false').
 * `tcbound` - whether or not the station is the boundary station of a travelcard ticket (must be 'true' or 'false').

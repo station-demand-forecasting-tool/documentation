@@ -3,15 +3,15 @@
 
 Example of the `config.csv` file:
 
-```
+```txt
 job_id;method;testing;loglevel;cores
 job004;isolation;true;DEBUG;6
 ```
 
-* `job_id` - up to 20 characters (this is used as the database schema name so must be valid schema name for postgreSQL)
-* `method` - either 'isolation' or 'concurrent' (see 'Handling multiple stations' below)
+* `job_id` - up to 20 characters (this is used as the database schema name so must be valid schema name for postgreSQL).
+* `method` - either 'isolation' or 'concurrent' (see 'Handling multiple stations' below).
 * `testing` - either 'true' or 'false'. If true then the job will run in testing mode. The testing mode only considers a very small catchment area for a proposed station to speed up processing. Any forecast produced in testing mode is not valid.
-* `loglevel` - determins the level of logging in the output `sdr.log` file. Can be one of: DEBUG, INFO, WARN, ERROR, or FATAL.
+* `loglevel` - determines the level of logging in the output `sdr.log` file. Can be one of: DEBUG, INFO, WARN, ERROR, or FATAL.
 * `cores` - the number of processing cores to allocate to the job. This must be at least 4. Two of these cores will be reserved for the operating system. 
 
 
