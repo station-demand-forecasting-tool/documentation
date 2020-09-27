@@ -4,6 +4,7 @@
 Example of the `stations.csv` file with a single entry:
 
 ```txt
+
 id;name;region;stn_east;stn_north;acc_east;acc_north;freq;freqgrp;carsp;ticketm;busint;cctv;terminal;electric;tcbound;category;abstract
 HELST1;HELSTON;South West;166257;028051;166257;028051;20;;25;true;false;true;true;false;false;E;PNZ,SER
 ```
