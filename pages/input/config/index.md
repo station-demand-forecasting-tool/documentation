@@ -4,8 +4,10 @@
 Example of the `config.csv` file:
 
 ```txt
+
 job_id;method;testing;loglevel;cores
 job004;isolation;true;DEBUG;6
+
 ```
 
 * `job_id` - up to 20 characters (this is used as the database schema name so must be valid schema name for postgreSQL).
