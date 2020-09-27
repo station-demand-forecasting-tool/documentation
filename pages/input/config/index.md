@@ -3,7 +3,7 @@
 
 Example of the `config.csv` file:
 
-```text
+```
 job_id;method;testing;loglevel;cores
 job004;isolation;true;DEBUG;6
 ```

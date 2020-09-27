@@ -11,7 +11,7 @@ If a demand forecast is required based on an expected increase in the service fr
 
 Here is an example file:
 
-```text
+```
 group_id;group_crs
 grp1;CBN:50,HYL:40
 grp2;CBN:60,HYL:50
