@@ -10,7 +10,7 @@ The model inputs are provided using the following CSV files:
 
 These files should be placed in a folder named `input` located in the directory path provided to the `sdft_submit()` function via the `dirpath` parameter.
 
-Example input files are provided with the **sdft** R package in the `inst` folder.
+Example input files are provided with the **sdft** R package [in the 'inst' folder](https://github.com/station-demand-forecasting-tool/sdft/tree/master/inst/example_input).
 
 For details about each configuration file, see:
 
