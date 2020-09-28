@@ -3,7 +3,7 @@
 
 ## Station demand forecasts for Wales
 
-The underlying model was used to forecast demand for 12 proposed new station location in Wales. This work was carried out for the Welsh Government as part of the Welsh National Transport Plan:
+The underlying model was used to forecast demand for 12 proposed new station locations in Wales. This work was carried out for the Welsh Government as part of the Welsh National Transport Plan:
 
 [https://gov.wales/station-demand-forecasts-wales](https://gov.wales/station-demand-forecasts-wales)
 
