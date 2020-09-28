@@ -12,18 +12,7 @@ HELST1;HELSTON;South West;166257;028051;166257;028051;20;;25;true;false;true;tru
 
 * `id` - a unique id for the proposed station (must not match the crscode of any existing station).
 * `name` - the long name of the proposed station.
-* `region` - the region where the new station is located. This is used to determine the level of uplift applied to a demand forecast to account for growth in rail demand since 2011. Valid regions are:
-    * East
-    * East Midlands
-    * London
-    * North East
-    * North West
-    * Scotland
-    * South East
-    * South West
-    * Wales - Cymru
-    * West Midlands
-    * Yorkshire And The Humber
+* `region` - the region where the new station is located. This is used to determine the level of uplift applied to a demand forecast to account for growth in rail demand since 2011. Valid regions are shown in the [regional uplifts table](https://github.com/station-demand-forecasting-tool/sdft-docker/blob/master/db/data/uplifts/regional_uplifts.csv).
 * `stn_east` and `stn_north` - the easting and northing of the station's location.
 * `acc_east` and `acc_north` - the easting and northing of the nearest access point to the new station from the *existing* road network.
 * `freq` - the expected number of arrivals and departures during a typical weekday. For an existing route, this would normally match other stations on the route with similar stopping patterns. This can be checked by consulting the [data on existing stations](https://github.com/station-demand-forecasting-tool/sdft-docker/blob/master/db/data/stations/stations.csv).
