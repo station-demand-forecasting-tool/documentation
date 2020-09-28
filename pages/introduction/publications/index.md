@@ -8,7 +8,7 @@ The following conference paper gives a useful overview of the SDFT and the under
 
 For detailed information about the research underpinning the SDFT, please consult the following PhD dissertation:
 
->Young, M. (2019). *Modelling railway station choice: can probabilistic catchments improve demand forecasts for new stations?* University of Southampton (Transportation Research Group). [Final version](https://eprints.soton.ac.uk/430041/)
+>Young, M. (2019). *Modelling railway station choice: can probabilistic catchments improve demand forecasts for new stations?*. University of Southampton (Transportation Research Group). [Final version](https://eprints.soton.ac.uk/430041/)
 
 
 To read more about the development of station choice models to improve the definition of station catchments, see the following journal paper:
