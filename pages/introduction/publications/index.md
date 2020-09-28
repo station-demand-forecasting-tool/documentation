@@ -17,7 +17,7 @@ For detailed information about the research underpinning the SDFT, please consul
 
 To read more about the development of station choice models to improve the definition of station catchments, see the following journal paper:
 
->Young, M., & Blainey, S. (2018). Development of railway station choice models to improve the representation of station catchments in rail demand models. *Transportation Planning and Technology*, 41(1), 80-103. [https://doi.org/10.1080/03081060.2018.1403745](https://doi.org/10.1080/03081060.2018.1403745). [Accepted manuscript](https://www.marcusyoung.co.uk/files/tpt2017.pdf)
+>Young, M., & Blainey, S. (2018). Development of railway station choice models to improve the representation of station catchments in rail demand models. *Transportation Planning and Technology*, 41(1), 80-103. [Accepted manuscript](https://www.marcusyoung.co.uk/files/tpt2017.pdf)
 
 
 
