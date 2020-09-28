@@ -19,4 +19,4 @@ job004;isolation;true;DEBUG;6
 
 ## Handling multiple stations
 
-The model can forecast demand for multiple stations. If a forecast is requested for more than one station, the stations can either be treated in isolation(the default) or concurrently. Concurrent handling assumes that all the requested stations will be present in the new situation (for example, a new line). Handling in isolation assumes that each station is separately present in the new situation (for example, when considering a set of potential alternative station locations. 
+The model can forecast demand for multiple stations. If a forecast is requested for more than one station, the stations can either be treated in isolation (the default) or concurrently. Concurrent handling assumes that all the requested stations will be present in the new situation (for example, a new line). Handling in isolation assumes that each station is separately present in the new situation (for example, when considering a set of potential alternative station locations). 
