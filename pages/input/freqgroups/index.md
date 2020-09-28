@@ -7,7 +7,7 @@ The station choice model contains daily service frequency as one of the predicto
 
 If a demand forecast is required based on an expected increase in the service frequency on a line, then the service frequency of existing stations must be adjusted before the model is run. The affected stations are specified using service frequency groups. A frequency group must contain a list of one or more `crscode:frequency` pairs separated by commas. Frequency groups that should be applied are specified in the `stations.csv` file.
 
-*Note: When multiple stations are to be handled concurrently the same frequency group must be specified for every station.*
+*Note: when multiple stations are to be handled concurrently the same frequency group must be specified for every station.*
 
 Here is an example file:
 
