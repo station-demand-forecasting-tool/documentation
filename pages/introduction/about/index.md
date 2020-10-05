@@ -29,7 +29,7 @@ the DOI for the specific version from: [https://zenodo.org/record/4066925](https
   > Marcus Young and Simon Blainey (2020). sdft: The Station Demand Forecasting Tool. R package version 0.3.0. https://doi.org/10.5281/zenodo.4066925
 
 A BibTeX entry for LaTeX users:
-```
+```txt
   @Manual{,
     author = {{Marcus Young} and {Simon Blainey}},
     title = {{sdft: The Station Demand Forecasting Tool}},
