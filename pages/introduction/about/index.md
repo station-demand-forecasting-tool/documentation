@@ -24,9 +24,9 @@ The video below gives a good overview of how the tool works. However, the web in
 <h2 id="cite">How to Cite</h2>
 
 To cite SDFT in publications, please use the following (amend for version number and obtain
-the DOI for the specific version from: [https://zenodo.org/record/4066925](https://zenodo.org/record/4066925)):
+the DOI for the specific version from: [https://zenodo.org/record/4066924](https://zenodo.org/record/4066924)):
 
-  > Marcus Young and Simon Blainey (2020). sdft: The Station Demand Forecasting Tool. R package version 0.3.0. https://doi.org/10.5281/zenodo.4066925
+  > Marcus Young and Simon Blainey (2020). sdft: The Station Demand Forecasting Tool. R package version 0.3.0. https://doi.org/10.5281/zenodo.4066924
 
 A BibTeX entry for LaTeX users:
 ```txt
@@ -35,7 +35,7 @@ A BibTeX entry for LaTeX users:
     title = {{sdft: The Station Demand Forecasting Tool}},
     year = {2020},
     note = {{R package version 0.3.0}},
-    doi = {{https://doi.org/10.5281/zenodo.4066925}},
+    doi = {{https://doi.org/10.5281/zenodo.4066924}},
   }
   
 ```
