@@ -1,7 +1,7 @@
 # About
 <!-- position: 1 -->
 
-This site contains information about the open source Station Demand Forecasting Tool (SDFT) and how to install and use it. The SDFT is released under the [Affero GPL](https://www.gnu.org/licenses/agpl-3.0.txt). This licence allows you to use, copy and change the code of the software, but requires you to release your changes under the same terms and conditions if you distribute the software or you run a modified copy on a web server on the Internet. 
+This site contains information about the open source railway Station Demand Forecasting Tool (SDFT) and how to install and use it. The SDFT is released under the [Affero GPL](https://www.gnu.org/licenses/agpl-3.0.txt). This licence allows you to use, copy and change the code of the software, but requires you to release your changes under the same terms and conditions if you distribute the software or you run a modified copy on a web server on the Internet. 
 
 <h2 id="purpose">Purpose and Scope</h2>
 
