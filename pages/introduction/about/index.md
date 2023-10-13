@@ -44,7 +44,7 @@ A BibTeX entry for LaTeX users:
 
 | [Dr Simon Blainey](https://www.southampton.ac.uk/engineering/about/staff/spb1g09.page) (Principal Investigator) | [Dr Marcus Young](https://www.southampton.ac.uk/engineering/about/staff/may1y17.page) (Researcher & Lead Developer) |
 |:----------:|:----------:|
-| ![Marcus Young](https://stationdemand.blob.core.windows.net/images/2020/09/23/simon-small.png) | ![Marcus Young](https://stationdemand.blob.core.windows.net/images/2020/09/23/marcus_small.png) |
+| ![Marcus Young](https://stationdemand.blob.core.windows.net/images/2020/09/23/simon-small.png) | ![Marcus Young](https://stationdemand.blob.core.windows.net/images/2020/09/23/marcus_new.png) |
 
 
 <h2 id="funding">Funding and Acknowledgements</h2>
